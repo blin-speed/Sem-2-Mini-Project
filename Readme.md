@@ -1,5 +1,10 @@
 Python Programming Semester 2 Mini Project
 
+Team Members:
+Sumedh Malusare (GitHub = blin-speed)
+Divyash Mahadik (GitHub = divyash17)
+Sanskruti Magar (GitHub = )
+
 Description:
 Kisan Link is a first-of-its-kind agriculture management system designed by a group of enthusiastic students. The
 application aims to help farmers manage various aspects of farming, including weather forecasting, soil analysis,
